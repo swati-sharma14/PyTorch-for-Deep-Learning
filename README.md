@@ -17,7 +17,7 @@ Welcome to the [Zero to Mastery Learn PyTorch for Deep Learning course](https://
 
 | **Section** | **Content Covered** | **Exercises & Additional Resources** | **Slides** |
 | ----- | ----- | ----- | ----- |
-| [00 - PyTorch Fundamentals](https://www.learnpytorch.io/00_pytorch_fundamentals/) | Numerous foundational PyTorch operations crucial for deep learning and neural networks. | [Access exercises & additional resources](https://www.learnpytorch.io/00_pytorch_fundamentals/#exercises) | [View slides](https://github.com/mrdbourke/pytorch-deep-learning/blob/main/slides/00_pytorch_and_deep_learning_fundamentals.pdf) |
+| [00 - PyTorch Fundamentals](https://www.learnpytorch.io/00_pytorch_fundamentals/) | Numerous foundational PyTorch operations crucial for deep learning and neural networks. | [Access exercises & additional resources](https://www.learnpytorch.io/00_pytorch_fundamentals/#exercises) | [View slides](https://github.com/swati-sharma14/PyTorch-for-Deep-Learning/blob/main/Slides/00_pytorch_and_deep_learning_fundamentals.pdf) |
 
 ## About the Course 📚
 
